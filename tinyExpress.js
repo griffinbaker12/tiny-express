@@ -1,4 +1,4 @@
-var mixin = require('./lib/mergeDescriptors.js');
+var mixin = require('./lib/mergeDescriptors');
 var proto = require('./application.js');
 
 exports = module.exports = createApplication;
